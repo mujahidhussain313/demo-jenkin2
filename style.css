@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ body{
+    background: rgb(46, 23, 23);
+} 
+
+.heading{
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(254, 255, 254);
+    padding: 70px;
+    text-align: center;
+  }
+
+  .heading h1, h3, p{
+    color: #ffff;
+    padding: 10px;
+  }
